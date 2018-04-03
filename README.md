@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [wendy-mary](https://github.com/wendymary)
-- Add your clickable username here. It should point to your GitHub account.
+- [Wendy Mary](https://github.com/wendy-mary)
+
 
 ## Project setup instructions
 To start using this project use the following commands:
