@@ -1,9 +1,10 @@
 # Hello-World
 
 ## Authors
-- [iantheninja](https://github.com/iantheninja)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Wendy Mary](https://github.com/wendy-mary)
 
+## Authors
+- [Wendy Mary](https://github.com/wendy-mary)
 ## Project setup instructions
 To start using this project use the following commands:
 
