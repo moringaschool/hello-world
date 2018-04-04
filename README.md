@@ -2,7 +2,8 @@
 
 ## Authors
 - [iantheninja](https://github.com/iantheninja)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Lawrence254](https://github.com/lawrence254)
+
 
 ## Project setup instructions
 To start using this project use the following commands:
