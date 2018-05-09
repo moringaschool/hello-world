@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- (https://github.com/WekesaN) 
+- https://github.com/WekesaN
 
 ## Project setup instructions
 To start using this project use the following commands:
