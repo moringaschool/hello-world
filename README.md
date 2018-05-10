@@ -2,8 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
-
+- [Elvis Amuni](https://github.com/Elvandro) 
 ## Project setup instructions
 To start using this project use the following commands:
 
