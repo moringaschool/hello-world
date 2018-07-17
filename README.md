@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [james oyieko](https://github.com/wanyakiago/hello-world.git)
+- [james oyieko](https://github.com/wanyakiago)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
