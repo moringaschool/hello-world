@@ -2,6 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Dennis Kamau](https://github.com/DK-denno/hello-world-1.git)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
