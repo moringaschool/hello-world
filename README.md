@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [AmosMworia](https://github.com/KevineMusoni/hello-world.git)
+- [Amos Mworia](https://github.com/KevineMusoni/hello-world.git)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
