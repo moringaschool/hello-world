@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Jeremy Kimotho] (https://github.com/jeremykimotho)
+- [Jeremy Kimotho](https://github.com/jeremykimotho)
 ## Project setup instructions
 To start using this project use the following commands:
 
