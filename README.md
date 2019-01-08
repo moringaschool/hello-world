@@ -1,17 +1,20 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+
+- [njoanc](https://github.com/njoanc)
+- Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
+
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
+- `git clone https://github.com/njoanc/hello-world-1.git`
 - `cd hello-world`
 - `atom .`
 
 ## License info
+
 MIT License
 
 Copyright (c) 2018 Moringa School
