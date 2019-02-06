@@ -13,3 +13,4 @@ To start using this project use the following commands:
 
 ## License info
 
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
