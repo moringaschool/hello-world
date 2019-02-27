@@ -2,7 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Nicole Wakio](https://github.com/nicolewakio)
+- Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
 To start using this project use the following commands:
