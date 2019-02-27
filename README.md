@@ -2,7 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- Add your clickable username here. It should point to your GitHub account.
+- [Badrudin Noor] (https://github.com/badruu)
 
 ## Project setup instructions
 To start using this project use the following commands:
