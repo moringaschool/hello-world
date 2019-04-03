@@ -1,7 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Max Maina](https://github.com/Maxie24?tab=repositories)
+- [Precious Neema](https://github.com/Neema2018)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
