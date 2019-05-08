@@ -1,10 +1,13 @@
 # Hello-World
 
 ## Authors
+
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+
+- [dennis-mwai](https://github.com/dennis-mwai)
 
 ## Project setup instructions
+
 To start using this project use the following commands:
 
 - `git clone https://github.com/moringaschool/hello-world.git`
@@ -12,6 +15,7 @@ To start using this project use the following commands:
 - `atom .`
 
 ## License info
+
 MIT License
 
 Copyright (c) 2018 Moringa School
