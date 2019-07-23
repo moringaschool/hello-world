@@ -1,9 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
-
+- [michael-creator](https://github.com/michael-creator/hello-world-1.git). 
+- [michael-creator](https://github.com/michael-creator/hello-world-1.git).
 ## Project setup instructions
 To start using this project use the following commands:
 
