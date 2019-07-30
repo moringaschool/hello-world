@@ -1,8 +1,9 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+
+- honorine1
+- [honorine1](https://github.com/honorine1)Add your 
 
 ## Project setup instructions
 To start using this project use the following commands:
