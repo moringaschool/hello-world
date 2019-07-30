@@ -1,20 +1,20 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [GasaGentille](https://github.com/GasaGentille)
+- GasaGentille
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
+- `https://github.com/GasaGentille/hello-world-1`
 - `cd hello-world`
 - `atom .`
 
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2019 GasaGentille
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
