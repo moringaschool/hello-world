@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Laurent Juma](https://https://github.com/Laurent-c4)
+- [Laurent Juma](https://github.com/Laurent-c4)
 
 ## Project setup instructions
 To start using this project use the following commands:
