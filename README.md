@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [RK Nyra](https://github.com/RkNyra)
+- [Rhoda K. (RK Nyra)](https://github.com/RkNyra)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
