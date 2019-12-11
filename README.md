@@ -1,7 +1,10 @@
 # Hello-World
 
+## Author name
+- [LennyDennis](https://github.com/LennyDennis)
+
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [LennyDennis](https://github.com/LennyDennis)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
