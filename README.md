@@ -1,8 +1,11 @@
 # Hello-World
 
-## Authors
+## Author name
 - [LennyDennis](https://github.com/LennyDennis)
 
+## Authors
+- [LennyDennis](https://github.com/LennyDennis)
+- Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
