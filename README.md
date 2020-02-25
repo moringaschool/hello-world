@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Joshua Warui](https://github.com/Joshua-Warui/hello-world-1)
+- [Joshua Warui](https://github.com/Joshua-Warui`)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
