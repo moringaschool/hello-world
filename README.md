@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Lorraine Kamanda](https://github.com/lorrainekamanda/hello-world)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
