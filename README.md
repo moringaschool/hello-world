@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Antonykirunyu](https://github.com/Antonykirunyu?tab=repositories)
+- [Antonykirunyu](https://github.com/Antonykirunyu)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
