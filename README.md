@@ -2,6 +2,7 @@
 
 ## Authors
 - [Ko3ch](https://github.com/Ko3ch) 
+- Add a clickable username here. It should point to your github account
 
 ## Project setup instructions
 To start using this project use the following commands:
