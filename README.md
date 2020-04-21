@@ -6,7 +6,7 @@
 - [Galgallo Tadicha](https://github.com/Galgallo1/hello-world-1)
 
 ## Project setup instructions
-To start using this project use the following commands:
+To start using this project use the followi:
 
 - `git clone https://github.com/moringaschool/hello-world.git`
 - `cd hello-world`
