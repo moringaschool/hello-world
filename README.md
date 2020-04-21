@@ -3,9 +3,10 @@
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account. 
+- [Galgallo Tadicha](https://github.com/Galgallo1/hello-world-1)
 
 ## Project setup instructions
-To start using this project use the following commands:
+To start using this project use the followi:
 
 - `git clone https://github.com/moringaschool/hello-world.git`
 - `cd hello-world`
