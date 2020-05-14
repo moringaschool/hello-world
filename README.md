@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Bruno Towett](https://github.com/BTG001/hello-world-1.git)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
