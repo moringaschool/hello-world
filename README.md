@@ -1,15 +1,15 @@
 # Hello-World
-
+# I have cloned this page from Moringa
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Erick Onyango](https://github.com/Erikagola/hello-world)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
-- `atom .`
+- There is nothing much here
+- I just want to learn to add, commit and push
+-  I guess much fun is coming on the way
 
 ## License info
 MIT License
