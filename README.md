@@ -2,7 +2,7 @@
 
 ## Authors
 - [kabu1](https://github.com/kabu1)
-- Add your clickable username here. It should point to your GitHub account. 
+- Add your clickable username here. It should point to your GitHub account..
 
 ## Project setup instructions
 To start using this project use the following commands:
