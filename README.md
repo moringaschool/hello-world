@@ -3,6 +3,7 @@
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account. 
+- [Richard kefa](https://github.com/richardkefa/hello-world)
 
 ## Project setup instructions
 To start using this project use the following commands:
