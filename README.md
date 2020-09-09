@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Fiona Cherutto
-- [Fiona Cherutto](https://https://github.com/Fiona-cherutto)
+- [Fiona Cherutto](https://github.com/Fiona-cherutto)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
