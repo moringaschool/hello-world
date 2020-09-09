@@ -1,8 +1,8 @@
 # Hello-World
 
-## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+## Fiona Cherutto
+- [Fiona Cherutto](https://https://github.com/Fiona-cherutto)
+- Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
 To start using this project use the following commands:
