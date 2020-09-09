@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [dorothyomare](https://github.com/dorothyomare)
+- [Dorothy Omare](https://github.com/dorothyomare)
 
 ## Project setup instructions
 To start using this project use the following commands:
