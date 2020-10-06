@@ -2,6 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [IYUMVA Josue ](https://github.com/joshuaiyumva/hello-world-1)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
