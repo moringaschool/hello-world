@@ -1,8 +1,9 @@
 # Hello-World
 
-## Nancy's repository
+## Author name 
 - [Nancy Umutoniwase](https://github.com/Adelice)
- 
+- Add your clickable username here. It should point to your GitHub account. 
+hello everyone
 
 ## Project setup instructions
 To start using this project use the following commands:
