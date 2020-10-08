@@ -1,6 +1,8 @@
 # Hello-World
 
-
+## Nancy's repository
+- [Nancy Umutoniwase](https://github.com/Adelice)
+ 
 
 ## Project setup instructions
 To start using this project use the following commands:
