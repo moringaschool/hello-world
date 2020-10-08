@@ -1,8 +1,6 @@
 # Hello-World
 
-## Author name 
-- [Nancy Umutoniwase](https://github.com/Adelice)
- 
+
 
 ## Project setup instructions
 To start using this project use the following commands:
