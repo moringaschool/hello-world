@@ -2,6 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Kesha Patel](https://github.com/kesha2699)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
