@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Daisy Chelangat](https://github.com/daisychelangat)
-- Add your clickable username here. It should point to your GitHub account. 
+- [daisychelangat](https://github.com/daisychelangat)
+ 
 
 ## Project setup instructions
 To start using this project use the following commands:
