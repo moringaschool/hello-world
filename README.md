@@ -1,8 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Breens Mbaka](https://github.com/Breens-Thomas)
 
 ## Project setup instructions
 To start using this project use the following commands:
