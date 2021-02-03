@@ -2,7 +2,7 @@
 
 ## Authors
 - [EPHANTUS GACHOMBA](https://github.com/ephantusGachomba)
-- Add your clickable username here. It should point to your GitHub account. 
+- https://github.com/ephantusGachomba 
 
 ## Project setup instructions
 To start using this project use the following commands:
