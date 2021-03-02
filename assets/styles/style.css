@@ -1,0 +1,5 @@
+.el-h1 h1{
+    text-align: center;
+    place-content: center;
+    border-radius: 2px solid green;
+}
