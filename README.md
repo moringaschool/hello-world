@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Wairimuk](https://github.com/wairimuk)
 - Add your clickable username here. It should point to your GitHub account.
 - [Wairimuk](https://github.com/wairimuk)
 
