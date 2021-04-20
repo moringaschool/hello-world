@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Patrick Rop](https://github.com/patrickrop-cloud)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
