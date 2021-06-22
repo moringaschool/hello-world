@@ -2,7 +2,7 @@
 
 ## Authors
 - [Eric Wafula](https://github.com/ericwafula)
-- - Add your clickable username here. It should point to your GitHub account.  
+- Add your clickable username here. It should point to your GitHub account.  
 
 ## Project setup instructions
 To start using this project use the following commands:
