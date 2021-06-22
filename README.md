@@ -1,8 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Eric Wafula](https://github.com/ericwafula)
-- Add your clickable username here. It should point to your GitHub account.  
+- [Eric Wafula](https://github.com/ericwafula)  
 
 ## Project setup instructions
 To start using this project use the following commands:
