@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Daniel Karani](https://github.com/shadow-walker101/hello-world-1)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
