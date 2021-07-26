@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Esther Moki](https://github.com/Esther-Moki "Esther Moki")
-- Add your clickable username here. It should point to your GitHub account. 
+- [Esther Moki](https://github.com/Esther-Moki)
+- 
 
 ## Project setup instructions
 To start using this project use the following commands:
