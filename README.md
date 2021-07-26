@@ -2,6 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Nick Otieno](https://github.com/otienonick)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
