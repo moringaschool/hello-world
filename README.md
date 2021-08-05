@@ -4,10 +4,6 @@
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - [Ryan Mburu](https://github.com/mbururyan "ryan mburu's github account")
 
-
-
-- [Ryan Mburu](https://github.com/mbururyan "ryan mburu github")
-
 ## Project setup instructions
 To start using this project use the following commands:
 
