@@ -2,6 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Ryan Mburu](https://github.com/mbururyan "ryan mburu's github account")g
+
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
