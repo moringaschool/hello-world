@@ -2,9 +2,11 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Ryan Mburu](https://github.com/mbururyan "ryan mburu's github account")g
+- [Ryan Mburu](https://github.com/mbururyan "ryan mburu's github account")
 
-- Add your clickable username here. It should point to your GitHub account. 
+
+
+- [Ryan Mburu](https://github.com/mbururyan "ryan mburu's github account")
 
 ## Project setup instructions
 To start using this project use the following commands:
