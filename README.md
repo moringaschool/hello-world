@@ -1,8 +1,7 @@
 # Hello-World
-
+### THIS IS A TRIAL VERSION OF THE PROJECT
 ## Authors
 - [Kevson](https://github.com/Kevson102/hello-world-1)
-- Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
