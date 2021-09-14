@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Alphonce](https://github.com/Kips-alih/) 
+* [Alphonce](https://github.com/Kips-alih) 
 
 ## Project setup instructions
 To start using this project use the following commands:
