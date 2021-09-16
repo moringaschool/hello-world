@@ -1,7 +1,9 @@
 # Hello-World
 
 ## Authors
-- [Stephen Njuguna](https://github.com/Stephen-Njuguna)
+- [Stephen Njuguna]
+[Brenda Chepkoech]
+(https://github.com/Stephen-Njuguna)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
