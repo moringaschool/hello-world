@@ -1,8 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [TimKirathe] (https://github.com/TimKirathe)
+- [Timothy Kirathe](https://github.com/TimKirathe)
 
 ## Project setup instructions
 To start using this project use the following commands:
