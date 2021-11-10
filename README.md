@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Daisy Lynn(https://github.com/01DaisyLynn
+- [Daisy Lynn](https://github.com/01DaisyLynn)
 ## Project setup instructions
 To start using this project use the following commands:
 
