@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Yahya Saadi] (https://github.com/yahyasaadi) 
+- [Yahya Saadi](https://github.com/yahyasaadi) 
 
 ## Project setup instructions
 To start using this project use the following commands:
