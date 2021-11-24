@@ -1,6 +1,6 @@
 # Hello-World
 
-## Author name 
+## Authors
 - [Nancy Umutoniwase](https://github.com/Adelice)
 - Add your clickable username here. It should point to your GitHub account. 
 hello everyone
