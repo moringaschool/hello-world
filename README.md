@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Sharonne Kay](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
