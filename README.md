@@ -1,7 +1,8 @@
 # Hello-World
 
 ## Authors
-- [florence Kotohoyoh](https://github.com/Flokots)
+- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Florence Kotohoyoh](https://github.com/Flokots) 
 
 ## Project setup instructions
 To start using this project use the following commands:
