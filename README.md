@@ -2,8 +2,9 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+
 - [Aggrey Odinga](https://github.com/Aggrey-odinga)
-Add your clickable username here. It should point to your GitHub account. 
+
 
 ## Project setup instructions
 To start using this project use the following commands:
