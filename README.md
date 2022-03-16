@@ -1,16 +1,16 @@
 # Hello-World
 
 ## Authors
-- [AtienoObwanda](https://github.com/AtienoObwanda)
-
+- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+-  [AtienoObwanda](https://github.com/AtienoObwanda)
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
+- `git clone https://github.com/AtienoObwanda/hello-world.git`
 - `cd hello-world`
-- `atom .`
-- `code .` 
+- `atom .` or
+- `code .`
 
 ## License info
 MIT License
