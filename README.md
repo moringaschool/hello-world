@@ -2,7 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- <a href="https://github.com/BrianNgeno/hello-world-1">Brian Ng'eno</a> 
+- <a href="https://github.com/BrianNgeno/hello-world-1">Kellen Njoroge</a>
 
 ## Project setup instructions
 To start using this project use the following commands:
