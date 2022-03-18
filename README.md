@@ -2,6 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Victoria Kwamboka](https://github.com/VictoriaKwamboka)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
